@@ -2,3 +2,6 @@
 
 attack_annotated_comments.tsv
 attack_annotations.tsv
+*.pdf
+*.pptx
+*.mp4
